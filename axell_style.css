@@ -1,0 +1,26 @@
+<css>
+    <style>
+        img {
+		  border: 5px dashed blue;
+          margin: 5px 5px 15px 5px;
+        }
+        p {
+          font-family: arial;
+          font-size: 14pt;
+          margin: 5px 5px 25px 5px;
+        }
+        h1{
+          font-family: palatino;
+          color: green;
+        }
+        h2{
+          font-family: courier;
+          color: pink;
+        }
+        pfancy{
+          background-color: lightyellow;
+          border: solid orange;
+         
+        }
+    </style>
+</css>
